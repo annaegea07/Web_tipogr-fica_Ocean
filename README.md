@@ -14,7 +14,8 @@ que les il·lustracions i animacions s'han creat amb **After Effects** i **Adobe
 ## **Demo en línia**
 🔗 [Veure projecte](https://alumnesemad.cat/egea_anna/OCEAN/)
 
-Aquesta microsite només és desktop responisve 
+> [!WARNING]
+> Aquesta microsite només és compatible amb escriptori (desktop)
 
 ## **Estructura de carpetes**
 ```text
@@ -78,9 +79,11 @@ OCEAN/
 
 ## Captures de pantalla
 
-![Pantalla principal](./OCEAN/img/principal.jpeg)
-![Funcionalitats](./OCEAN/img/funcionalitat.jpeg)
-![Resultat visual del projecte](./img/slider.jpeg)
+<img src="./OCEAN/img/principal.jpg" width="600">
+<br><br>
+<img src="./OCEAN/img/funcionalitat.jpg" width="600">
+<br><br>
+<img src="./OCEAN/img/slider.jpg" width="600">
 
 ## Tecnologies utilitzades
 
